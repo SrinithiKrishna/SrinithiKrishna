@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SrinithiKrishna
-- 👀 I’m interested in Front End Development and Data science Enthusiast
+- 👀 I’m more passionate about Front End Developement and Data science
 - 🌱 I’m currently learning Data Analytics and Visualization
 - 💞️ I’m looking to collaborate on PHP,Java and Python related projects
 - 📫 How to reach me lilbrownpdy@gmail.com
